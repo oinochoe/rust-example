@@ -1,5 +1,6 @@
 // src/lib.rs
 mod pages;
+
 use pages::Home;
 use wasm_bindgen::prelude::*;
 use yew::prelude::*;
